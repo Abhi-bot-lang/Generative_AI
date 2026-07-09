@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "lucide-react": "^1.23.0",
+    "react-markdown": "^10.1.0",
+    "react-to-print": "^3.3.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0"
+  }
+}

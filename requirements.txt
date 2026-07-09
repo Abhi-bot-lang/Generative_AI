@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+cohere
+fpdf2
+pydantic[email]
+sqlalchemy
+psycopg2-binary
