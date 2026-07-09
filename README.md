@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chatbot (Cohere)
 
 A FastAPI-based AI chatbot powered by **Cohere** with PDF generation and email capabilities.
@@ -49,3 +50,6 @@ ai-chatbot/
 | `POST`   | `/api/chat/pdf/{id}`         | Download chat as PDF         |
 | `POST`   | `/api/chat/email`            | Email chat transcript        |
 | `DELETE` | `/api/session/{id}`           | Delete a chat session        |
+=======
+# Generative_AI
+>>>>>>> 33868035f77d75f771fa1bd82854f86c09623df5
